@@ -16,6 +16,7 @@ gem 'rmagick'
 gem 'filterrific', '< 2.1'
 gem 'will_paginate'
 gem 'timecop'
+gem 'rails_12factor'
 
 group :development, :test do
   gem 'rspec-rails'
