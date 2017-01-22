@@ -1,0 +1,97 @@
+0000000000000000000000000000000000000000 161da534eb7e01ff89bbd3b9fa7782c76665c7f2 Georgina Heap <george.heap@gmail.com> 1481553496 +0000	clone: from https://georgeheap@bitbucket.org/wegotcoders/wegotsingles_oct2016.git
+161da534eb7e01ff89bbd3b9fa7782c76665c7f2 161da534eb7e01ff89bbd3b9fa7782c76665c7f2 Georgina Heap <george.heap@gmail.com> 1481553881 +0000	checkout: moving from master to dev
+161da534eb7e01ff89bbd3b9fa7782c76665c7f2 fc7a9d00e508957578c01c521b25fd61f20cd5a7 Georgina Heap <george.heap@gmail.com> 1481557460 +0000	pull origin dev: Fast-forward
+fc7a9d00e508957578c01c521b25fd61f20cd5a7 6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd Georgina Heap <george.heap@gmail.com> 1481558310 +0000	pull origin dev: Fast-forward
+6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd 6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd Georgina Heap <george.heap@gmail.com> 1481559745 +0000	checkout: moving from dev to carrierwave
+6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd e3d88800eb09a54f1d6ea7917a468dd61a31d3c3 Georgina Heap <george.heap@gmail.com> 1481562229 +0000	pull origin dev: Fast-forward
+e3d88800eb09a54f1d6ea7917a468dd61a31d3c3 6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd Georgina Heap <george.heap@gmail.com> 1481562310 +0000	checkout: moving from carrierwave to dev
+6bd157f19fd71fc27f3f5f5fdcbacd19ca098cbd 97f91a5b3d40b6955fd7d19b8cf0aa8c83446b69 Georgina Heap <george.heap@gmail.com> 1481563496 +0000	pull origin dev: Fast-forward
+97f91a5b3d40b6955fd7d19b8cf0aa8c83446b69 d61bdd08942502d870a80d25e01790b0afee95d9 Georgina Heap <george.heap@gmail.com> 1481576879 +0000	pull origin dev: Fast-forward
+d61bdd08942502d870a80d25e01790b0afee95d9 d61bdd08942502d870a80d25e01790b0afee95d9 Georgina Heap <george.heap@gmail.com> 1481620031 +0000	checkout: moving from dev to header
+d61bdd08942502d870a80d25e01790b0afee95d9 4422f89037bd08f3cb94929c458e4c2fccef18a1 Georgina Heap <george.heap@gmail.com> 1481630921 +0000	commit: Added header to project still need to work on colours
+4422f89037bd08f3cb94929c458e4c2fccef18a1 d61bdd08942502d870a80d25e01790b0afee95d9 Georgina Heap <george.heap@gmail.com> 1481630979 +0000	checkout: moving from header to dev
+d61bdd08942502d870a80d25e01790b0afee95d9 05f5a21a434e0a7bc872b3281b15620bb11fce41 Georgina Heap <george.heap@gmail.com> 1481631013 +0000	pull origin dev: Fast-forward
+05f5a21a434e0a7bc872b3281b15620bb11fce41 45d80fb1eecba0b70b1f14c05cf7c15405150acc Georgina Heap <george.heap@gmail.com> 1481631243 +0000	commit (merge): Resolving merge conflict
+45d80fb1eecba0b70b1f14c05cf7c15405150acc 45d80fb1eecba0b70b1f14c05cf7c15405150acc Georgina Heap <george.heap@gmail.com> 1481640083 +0000	checkout: moving from dev to success
+45d80fb1eecba0b70b1f14c05cf7c15405150acc e9b32cff73563042552b501583f5892da612c6fa Georgina Heap <george.heap@gmail.com> 1481643227 +0000	commit: Fixed headerlinks for logout, added image uploader and started success stories page
+e9b32cff73563042552b501583f5892da612c6fa 45d80fb1eecba0b70b1f14c05cf7c15405150acc Georgina Heap <george.heap@gmail.com> 1481643256 +0000	checkout: moving from success to dev
+45d80fb1eecba0b70b1f14c05cf7c15405150acc 14969e843d6f78329bf76451b0a5a0779e356ebd Georgina Heap <george.heap@gmail.com> 1481643270 +0000	pull origin dev: Fast-forward
+14969e843d6f78329bf76451b0a5a0779e356ebd e06aebc385914e361b6333251d86eb0edfe238a5 Georgina Heap <george.heap@gmail.com> 1481643374 +0000	commit (merge): Fixed merge conflict
+e06aebc385914e361b6333251d86eb0edfe238a5 c748934d07f031af57a39fb891095f4a18bb311b Georgina Heap <george.heap@gmail.com> 1481646043 +0000	commit: Fixed Success Stories
+c748934d07f031af57a39fb891095f4a18bb311b e06aebc385914e361b6333251d86eb0edfe238a5 Georgina Heap <george.heap@gmail.com> 1481647175 +0000	reset: moving to HEAD~
+e06aebc385914e361b6333251d86eb0edfe238a5 e06aebc385914e361b6333251d86eb0edfe238a5 Georgina Heap <george.heap@gmail.com> 1481647220 +0000	checkout: moving from dev to Newthing
+e06aebc385914e361b6333251d86eb0edfe238a5 e1404dc97dde93df3662ab787dc5cc694d9af5de Georgina Heap <george.heap@gmail.com> 1481647287 +0000	commit: Fixed Success Stories
+e1404dc97dde93df3662ab787dc5cc694d9af5de 0c76ce462bf4cc8c0cd47ee13191414481f3ed0d Georgina Heap <george.heap@gmail.com> 1481647330 +0000	pull origin dev: Merge made by the 'recursive' strategy.
+0c76ce462bf4cc8c0cd47ee13191414481f3ed0d e06aebc385914e361b6333251d86eb0edfe238a5 Georgina Heap <george.heap@gmail.com> 1481647420 +0000	checkout: moving from Newthing to dev
+e06aebc385914e361b6333251d86eb0edfe238a5 0c76ce462bf4cc8c0cd47ee13191414481f3ed0d Georgina Heap <george.heap@gmail.com> 1481647428 +0000	merge Newthing: Fast-forward
+0c76ce462bf4cc8c0cd47ee13191414481f3ed0d d8df5cf34235316778d84e0a6d593ce59145d03f Georgina Heap <george.heap@gmail.com> 1481657054 +0000	pull origin dev: Fast-forward
+d8df5cf34235316778d84e0a6d593ce59145d03f b11568347d663d5dc651681af1025fce27413303 Georgina Heap <george.heap@gmail.com> 1481707195 +0000	pull origin dev: Fast-forward
+b11568347d663d5dc651681af1025fce27413303 e9b32cff73563042552b501583f5892da612c6fa Georgina Heap <george.heap@gmail.com> 1481723133 +0000	checkout: moving from dev to success
+e9b32cff73563042552b501583f5892da612c6fa d0306a484e7eec6e64a6fc313530347043f3699f Georgina Heap <george.heap@gmail.com> 1481723822 +0000	pull origin dev: Fast-forward
+d0306a484e7eec6e64a6fc313530347043f3699f 7824b811b0f74e6b3f7a448d6ce5b4f36760dd9d Georgina Heap <george.heap@gmail.com> 1481725177 +0000	pull origin dev: Fast-forward
+7824b811b0f74e6b3f7a448d6ce5b4f36760dd9d 8c80f549aab067aaf36f08c38c50b93b2f699e17 Georgina Heap <george.heap@gmail.com> 1481728034 +0000	commit: fix of success stories and made responsive
+8c80f549aab067aaf36f08c38c50b93b2f699e17 a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481728058 +0000	pull origin dev: Merge made by the 'recursive' strategy.
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 b11568347d663d5dc651681af1025fce27413303 Georgina Heap <george.heap@gmail.com> 1481728220 +0000	checkout: moving from success to dev
+b11568347d663d5dc651681af1025fce27413303 697d59686849366360c7d28efdcea4c2d4bf059e Georgina Heap <george.heap@gmail.com> 1481728235 +0000	pull origin dev: Fast-forward
+697d59686849366360c7d28efdcea4c2d4bf059e a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481728242 +0000	checkout: moving from dev to success
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 697d59686849366360c7d28efdcea4c2d4bf059e Georgina Heap <george.heap@gmail.com> 1481728322 +0000	checkout: moving from success to dev
+697d59686849366360c7d28efdcea4c2d4bf059e a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481728403 +0000	checkout: moving from dev to success
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 697d59686849366360c7d28efdcea4c2d4bf059e Georgina Heap <george.heap@gmail.com> 1481728445 +0000	checkout: moving from success to dev
+697d59686849366360c7d28efdcea4c2d4bf059e a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481728453 +0000	merge success: Fast-forward
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481740278 +0000	checkout: moving from dev to success
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 d2a90ff5ddd3fb14c48ff55c194f14de9addaddb Georgina Heap <george.heap@gmail.com> 1481742432 +0000	commit: Did testing for success stories page
+d2a90ff5ddd3fb14c48ff55c194f14de9addaddb a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481742471 +0000	checkout: moving from success to dev
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 3569a261bf42fe60100b44b2f277e670740ac449 Georgina Heap <george.heap@gmail.com> 1481742500 +0000	pull origin dev: Merge made by the 'recursive' strategy.
+3569a261bf42fe60100b44b2f277e670740ac449 46cf667304e22f27bdd6a85f2acabd9c51ee9eeb Georgina Heap <george.heap@gmail.com> 1481742927 +0000	commit (merge): Removed coverage files
+46cf667304e22f27bdd6a85f2acabd9c51ee9eeb a61a2f97ce37f9b415314aba624c6240081c9107 Georgina Heap <george.heap@gmail.com> 1481743386 +0000	pull origin dev: Fast-forward
+a61a2f97ce37f9b415314aba624c6240081c9107 a61a2f97ce37f9b415314aba624c6240081c9107 Georgina Heap <george.heap@gmail.com> 1481745314 +0000	checkout: moving from dev to AddImages
+a61a2f97ce37f9b415314aba624c6240081c9107 a61a2f97ce37f9b415314aba624c6240081c9107 Georgina Heap <george.heap@gmail.com> 1481794190 +0000	checkout: moving from AddImages to dev
+a61a2f97ce37f9b415314aba624c6240081c9107 dbfe92119a7d066de3079b7a409f54ca5537a2f8 Georgina Heap <george.heap@gmail.com> 1481794341 +0000	pull origin dev: Fast-forward
+dbfe92119a7d066de3079b7a409f54ca5537a2f8 a61a2f97ce37f9b415314aba624c6240081c9107 Georgina Heap <george.heap@gmail.com> 1481794410 +0000	checkout: moving from dev to AddImages
+a61a2f97ce37f9b415314aba624c6240081c9107 0ccd5b503fcc43e35de2af9af8688f21ef829e3d Georgina Heap <george.heap@gmail.com> 1481799446 +0000	commit: Added multiple image uploads and now just need to test it works
+0ccd5b503fcc43e35de2af9af8688f21ef829e3d dbfe92119a7d066de3079b7a409f54ca5537a2f8 Georgina Heap <george.heap@gmail.com> 1481801732 +0000	checkout: moving from AddImages to dev
+dbfe92119a7d066de3079b7a409f54ca5537a2f8 1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 Georgina Heap <george.heap@gmail.com> 1481801770 +0000	pull origin dev: Fast-forward
+1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 0ccd5b503fcc43e35de2af9af8688f21ef829e3d Georgina Heap <george.heap@gmail.com> 1481801806 +0000	checkout: moving from dev to AddImages
+0ccd5b503fcc43e35de2af9af8688f21ef829e3d 1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 Georgina Heap <george.heap@gmail.com> 1481801817 +0000	checkout: moving from AddImages to dev
+1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 0ccd5b503fcc43e35de2af9af8688f21ef829e3d Georgina Heap <george.heap@gmail.com> 1481801820 +0000	checkout: moving from dev to AddImages
+0ccd5b503fcc43e35de2af9af8688f21ef829e3d 1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 Georgina Heap <george.heap@gmail.com> 1481801920 +0000	checkout: moving from AddImages to dev
+1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 0ccd5b503fcc43e35de2af9af8688f21ef829e3d Georgina Heap <george.heap@gmail.com> 1481802023 +0000	checkout: moving from dev to AddImages
+0ccd5b503fcc43e35de2af9af8688f21ef829e3d e6ab5977b7a92aec929455e89e541939a8aa4425 Georgina Heap <george.heap@gmail.com> 1481816843 +0000	commit: Added testing for avatars
+e6ab5977b7a92aec929455e89e541939a8aa4425 1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 Georgina Heap <george.heap@gmail.com> 1481816848 +0000	checkout: moving from AddImages to dev
+1b2c0c72ad8f2f6916c6afd539d0dadf0f4a9fc0 7c65d3eadae9f8365f76a8823f8d87892cd71969 Georgina Heap <george.heap@gmail.com> 1481816861 +0000	pull origin dev: Fast-forward
+7c65d3eadae9f8365f76a8823f8d87892cd71969 929fa6a1461e38b7b9b83189587e6d2fcd3431c8 Georgina Heap <george.heap@gmail.com> 1481817921 +0000	pull origin dev: Fast-forward
+929fa6a1461e38b7b9b83189587e6d2fcd3431c8 e6ab5977b7a92aec929455e89e541939a8aa4425 Georgina Heap <george.heap@gmail.com> 1481817958 +0000	checkout: moving from dev to AddImages
+e6ab5977b7a92aec929455e89e541939a8aa4425 9b2ad93577425afa9ffe1628653bce10c38337c2 Georgina Heap <george.heap@gmail.com> 1481818355 +0000	commit (merge): fixed merge conflicts
+9b2ad93577425afa9ffe1628653bce10c38337c2 a5dd4cb6f00d9a1e345df6609b1837007659d0e2 Georgina Heap <george.heap@gmail.com> 1481819639 +0000	commit: fixed missing bracket from conflict
+a5dd4cb6f00d9a1e345df6609b1837007659d0e2 929fa6a1461e38b7b9b83189587e6d2fcd3431c8 Georgina Heap <george.heap@gmail.com> 1481819663 +0000	checkout: moving from AddImages to dev
+929fa6a1461e38b7b9b83189587e6d2fcd3431c8 a5dd4cb6f00d9a1e345df6609b1837007659d0e2 Georgina Heap <george.heap@gmail.com> 1481819686 +0000	checkout: moving from dev to AddImages
+a5dd4cb6f00d9a1e345df6609b1837007659d0e2 2955d7120d2a0f905193f140747ab71d55311a88 Georgina Heap <george.heap@gmail.com> 1481825477 +0000	commit: fixed bad merge conflict
+2955d7120d2a0f905193f140747ab71d55311a88 929fa6a1461e38b7b9b83189587e6d2fcd3431c8 Georgina Heap <george.heap@gmail.com> 1481825483 +0000	checkout: moving from AddImages to dev
+929fa6a1461e38b7b9b83189587e6d2fcd3431c8 1f5ccb7c5d00a633b9606d40b785b94de1bc2503 Georgina Heap <george.heap@gmail.com> 1481825519 +0000	pull origin dev: Fast-forward
+1f5ccb7c5d00a633b9606d40b785b94de1bc2503 2955d7120d2a0f905193f140747ab71d55311a88 Georgina Heap <george.heap@gmail.com> 1481825527 +0000	checkout: moving from dev to AddImages
+2955d7120d2a0f905193f140747ab71d55311a88 d6c7fa76e7564cb7a205b523f8624eb30b1dec50 Georgina Heap <george.heap@gmail.com> 1481825626 +0000	commit (merge): Fixed another merge conflict
+d6c7fa76e7564cb7a205b523f8624eb30b1dec50 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481825794 +0000	commit: Removed coverage files
+c8676b10c69e426705f09537b56ad066378c90f9 1f5ccb7c5d00a633b9606d40b785b94de1bc2503 Georgina Heap <george.heap@gmail.com> 1481825832 +0000	checkout: moving from AddImages to dev
+1f5ccb7c5d00a633b9606d40b785b94de1bc2503 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481825862 +0000	merge AddImages: Fast-forward
+c8676b10c69e426705f09537b56ad066378c90f9 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481829824 +0000	checkout: moving from dev to stylemessages
+c8676b10c69e426705f09537b56ad066378c90f9 763f756f3b9b51ffb2fcc805844bb4421ff10766 Georgina Heap <george.heap@gmail.com> 1481834144 +0000	commit: Started styling for messages
+763f756f3b9b51ffb2fcc805844bb4421ff10766 c345759f29454f3fb712f110143d9c2ace49472e Georgina Heap <george.heap@gmail.com> 1481840531 +0000	commit (merge): Beginning styling for messages and conversations
+c345759f29454f3fb712f110143d9c2ace49472e 816556b464a9a9e0be44152d08199012ac35931c Georgina Heap <george.heap@gmail.com> 1481881089 +0000	commit: Finished styleing of messages and conversations
+816556b464a9a9e0be44152d08199012ac35931c a9d1aecc969c676cf70657d1d784d578fd2e8eae Georgina Heap <george.heap@gmail.com> 1481881818 +0000	commit: Removed schema and coverage again
+a9d1aecc969c676cf70657d1d784d578fd2e8eae c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481881829 +0000	checkout: moving from stylemessages to AddImages
+c8676b10c69e426705f09537b56ad066378c90f9 e89d82ecc8e3f31fae142defed5f2576f0feff02 Georgina Heap <george.heap@gmail.com> 1481886538 +0000	commit: Starting on crop functionality
+e89d82ecc8e3f31fae142defed5f2576f0feff02 d2a90ff5ddd3fb14c48ff55c194f14de9addaddb Georgina Heap <george.heap@gmail.com> 1481891816 +0000	checkout: moving from AddImages to success
+d2a90ff5ddd3fb14c48ff55c194f14de9addaddb d2a90ff5ddd3fb14c48ff55c194f14de9addaddb Georgina Heap <george.heap@gmail.com> 1481891839 +0000	checkout: moving from success to featured_profiles
+d2a90ff5ddd3fb14c48ff55c194f14de9addaddb 4c0ae85336ab6e52b683c6e223bc476076b9cdd6 Georgina Heap <george.heap@gmail.com> 1481891919 +0000	pull origin dev: Fast-forward
+4c0ae85336ab6e52b683c6e223bc476076b9cdd6 a9d1aecc969c676cf70657d1d784d578fd2e8eae Georgina Heap <george.heap@gmail.com> 1481898188 +0000	checkout: moving from featured_profiles to stylemessages
+a9d1aecc969c676cf70657d1d784d578fd2e8eae 06ab3bc4b8520af6a15e4d09fd954ac1a1e5c612 Georgina Heap <george.heap@gmail.com> 1481903433 +0000	commit (merge): Coverage needed adding again
+06ab3bc4b8520af6a15e4d09fd954ac1a1e5c612 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481904067 +0000	commit (merge): Final commit with message styling
+53f613f6a5b7614987685a5c25e5a1c785f2daf8 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481904074 +0000	checkout: moving from stylemessages to dev
+c8676b10c69e426705f09537b56ad066378c90f9 ad2ea2e6c5e8fb3c63d80b4cea4d1dad0d4e4b01 Georgina Heap <george.heap@gmail.com> 1481904085 +0000	pull origin dev: Fast-forward
+ad2ea2e6c5e8fb3c63d80b4cea4d1dad0d4e4b01 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481904138 +0000	checkout: moving from dev to stylemessages
+53f613f6a5b7614987685a5c25e5a1c785f2daf8 ad2ea2e6c5e8fb3c63d80b4cea4d1dad0d4e4b01 Georgina Heap <george.heap@gmail.com> 1481904160 +0000	checkout: moving from stylemessages to dev
+ad2ea2e6c5e8fb3c63d80b4cea4d1dad0d4e4b01 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481904214 +0000	merge stylemessages: Fast-forward
+53f613f6a5b7614987685a5c25e5a1c785f2daf8 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481907217 +0000	checkout: moving from dev to stylemessages
+53f613f6a5b7614987685a5c25e5a1c785f2daf8 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481907227 +0000	checkout: moving from stylemessages to dev
+53f613f6a5b7614987685a5c25e5a1c785f2daf8 eb40819c999837b82414fe0656b10221b63d6388 Georgina Heap <george.heap@gmail.com> 1481907242 +0000	pull origin dev: Fast-forward
+eb40819c999837b82414fe0656b10221b63d6388 a9718936037cbe3be155c29f3018aa8127cb1cc1 Georgina <george.heap@gmail.com> 1485112896 +0000	commit: make it better

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 a61a2f97ce37f9b415314aba624c6240081c9107 Georgina Heap <george.heap@gmail.com> 1481745314 +0000	branch: Created from HEAD
+a61a2f97ce37f9b415314aba624c6240081c9107 0ccd5b503fcc43e35de2af9af8688f21ef829e3d Georgina Heap <george.heap@gmail.com> 1481799446 +0000	commit: Added multiple image uploads and now just need to test it works
+0ccd5b503fcc43e35de2af9af8688f21ef829e3d e6ab5977b7a92aec929455e89e541939a8aa4425 Georgina Heap <george.heap@gmail.com> 1481816843 +0000	commit: Added testing for avatars
+e6ab5977b7a92aec929455e89e541939a8aa4425 9b2ad93577425afa9ffe1628653bce10c38337c2 Georgina Heap <george.heap@gmail.com> 1481818355 +0000	commit (merge): fixed merge conflicts
+9b2ad93577425afa9ffe1628653bce10c38337c2 a5dd4cb6f00d9a1e345df6609b1837007659d0e2 Georgina Heap <george.heap@gmail.com> 1481819639 +0000	commit: fixed missing bracket from conflict
+a5dd4cb6f00d9a1e345df6609b1837007659d0e2 2955d7120d2a0f905193f140747ab71d55311a88 Georgina Heap <george.heap@gmail.com> 1481825477 +0000	commit: fixed bad merge conflict
+2955d7120d2a0f905193f140747ab71d55311a88 d6c7fa76e7564cb7a205b523f8624eb30b1dec50 Georgina Heap <george.heap@gmail.com> 1481825626 +0000	commit (merge): Fixed another merge conflict
+d6c7fa76e7564cb7a205b523f8624eb30b1dec50 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481825794 +0000	commit: Removed coverage files
+c8676b10c69e426705f09537b56ad066378c90f9 e89d82ecc8e3f31fae142defed5f2576f0feff02 Georgina Heap <george.heap@gmail.com> 1481886538 +0000	commit: Starting on crop functionality

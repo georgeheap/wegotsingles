@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 45d80fb1eecba0b70b1f14c05cf7c15405150acc Georgina Heap <george.heap@gmail.com> 1481640083 +0000	branch: Created from HEAD
+45d80fb1eecba0b70b1f14c05cf7c15405150acc e9b32cff73563042552b501583f5892da612c6fa Georgina Heap <george.heap@gmail.com> 1481643227 +0000	commit: Fixed headerlinks for logout, added image uploader and started success stories page
+e9b32cff73563042552b501583f5892da612c6fa d0306a484e7eec6e64a6fc313530347043f3699f Georgina Heap <george.heap@gmail.com> 1481723822 +0000	pull origin dev: Fast-forward
+d0306a484e7eec6e64a6fc313530347043f3699f 7824b811b0f74e6b3f7a448d6ce5b4f36760dd9d Georgina Heap <george.heap@gmail.com> 1481725177 +0000	pull origin dev: Fast-forward
+7824b811b0f74e6b3f7a448d6ce5b4f36760dd9d 8c80f549aab067aaf36f08c38c50b93b2f699e17 Georgina Heap <george.heap@gmail.com> 1481728034 +0000	commit: fix of success stories and made responsive
+8c80f549aab067aaf36f08c38c50b93b2f699e17 a3f31f03fb217be662e08233b26d9fb3f7b85b30 Georgina Heap <george.heap@gmail.com> 1481728058 +0000	pull origin dev: Merge made by the 'recursive' strategy.
+a3f31f03fb217be662e08233b26d9fb3f7b85b30 d2a90ff5ddd3fb14c48ff55c194f14de9addaddb Georgina Heap <george.heap@gmail.com> 1481742432 +0000	commit: Did testing for success stories page

@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 c8676b10c69e426705f09537b56ad066378c90f9 Georgina Heap <george.heap@gmail.com> 1481829824 +0000	branch: Created from HEAD
+c8676b10c69e426705f09537b56ad066378c90f9 763f756f3b9b51ffb2fcc805844bb4421ff10766 Georgina Heap <george.heap@gmail.com> 1481834144 +0000	commit: Started styling for messages
+763f756f3b9b51ffb2fcc805844bb4421ff10766 c345759f29454f3fb712f110143d9c2ace49472e Georgina Heap <george.heap@gmail.com> 1481840531 +0000	commit (merge): Beginning styling for messages and conversations
+c345759f29454f3fb712f110143d9c2ace49472e 816556b464a9a9e0be44152d08199012ac35931c Georgina Heap <george.heap@gmail.com> 1481881089 +0000	commit: Finished styleing of messages and conversations
+816556b464a9a9e0be44152d08199012ac35931c a9d1aecc969c676cf70657d1d784d578fd2e8eae Georgina Heap <george.heap@gmail.com> 1481881818 +0000	commit: Removed schema and coverage again
+a9d1aecc969c676cf70657d1d784d578fd2e8eae 06ab3bc4b8520af6a15e4d09fd954ac1a1e5c612 Georgina Heap <george.heap@gmail.com> 1481903433 +0000	commit (merge): Coverage needed adding again
+06ab3bc4b8520af6a15e4d09fd954ac1a1e5c612 53f613f6a5b7614987685a5c25e5a1c785f2daf8 Georgina Heap <george.heap@gmail.com> 1481904067 +0000	commit (merge): Final commit with message styling

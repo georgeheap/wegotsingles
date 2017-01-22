@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 ce27909859670191eb1f6c7acb31937f4e1e9874 Georgina Heap <george.heap@gmail.com> 1481562256 +0000	WIP on carrierwave: e3d8880 Added test and implemented smoker boolean attribute on profile
+ce27909859670191eb1f6c7acb31937f4e1e9874 f6b9f43a8c1d9337c26c44d4115468990dce03d8 Georgina Heap <george.heap@gmail.com> 1481707186 +0000	WIP on dev: d8df5cf Merge branch 'dev' of https://bitbucket.org/wegotcoders/wegotsingles_oct2016 into edit-profile-biography
+f6b9f43a8c1d9337c26c44d4115468990dce03d8 32c51b18134f09885aefa6d93836e88fae4b1393 Georgina Heap <george.heap@gmail.com> 1481723335 +0000	WIP on success: e9b32cf Fixed headerlinks for logout, added image uploader and started success stories page
+32c51b18134f09885aefa6d93836e88fae4b1393 ad402cc7ae00c715c69eb427a6fbb3ea8e82cbd1 Georgina Heap <george.heap@gmail.com> 1481725168 +0000	WIP on success: d0306a4 merged latest changes from dev into homepage
+ad402cc7ae00c715c69eb427a6fbb3ea8e82cbd1 f7ac1f7c4fbd0b677b3e23ad81fdda8d57f0f0d4 Georgina Heap <george.heap@gmail.com> 1481801989 +0000	WIP on dev: 1b2c0c7 Manually including filteriffic.js
+f7ac1f7c4fbd0b677b3e23ad81fdda8d57f0f0d4 17022e504fd337d6ea2c071224b38abd5985f3b1 Georgina Heap <george.heap@gmail.com> 1481819656 +0000	WIP on AddImages: a5dd4cb fixed missing bracket from conflict
+17022e504fd337d6ea2c071224b38abd5985f3b1 b6ba977b711556ad8d92747822d09f2e56bba484 Georgina Heap <george.heap@gmail.com> 1481898184 +0000	WIP on featured_profiles: 4c0ae85 preferences is fully functional for weight unit
+b6ba977b711556ad8d92747822d09f2e56bba484 195c5ec95d358a819c9c3c33e304d5bd77b97103 Georgina Heap <george.heap@gmail.com> 1481907223 +0000	WIP on stylemessages: 53f613f Final commit with message styling
