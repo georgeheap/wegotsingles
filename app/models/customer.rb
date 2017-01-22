@@ -1,6 +1,4 @@
-require 'pry'
- 
-class Customer < ApplicationRecord
+ class Customer < ApplicationRecord
 
   attr_accessor :crop_x, :crop_y, :crop_w, :crop_h
   after_update :crop_avatar
